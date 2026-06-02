@@ -1,0 +1,3 @@
+*.csv linguist-detectable=false
+*.md linguist-documentation=true
+*.Rmd linguist-language=R
